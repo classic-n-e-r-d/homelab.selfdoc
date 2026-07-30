@@ -1,2 +1,2 @@
-# homelab.selfdoc
-Repository to document my experiences while homelabbing and learning other various skills (i.e networking, OSPEC, etc.)
+# Homelab.Selfdoc
+Repository to document my experiences while building my homelab and learning other various skills (i.e networking, OSPEC, etc.)
