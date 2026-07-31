@@ -10,7 +10,7 @@ Current projects being worked on are:
   - Windows 11 used for modded games and software exclusive to Windows.
   - Hardware self built and software self maintained.
  
-- ThinkPad Ts140 Server/NAS
+- ThinkServer Ts140 Server/NAS
   - Boots TrueNAS.
   - Used as media/gaming server.
   
