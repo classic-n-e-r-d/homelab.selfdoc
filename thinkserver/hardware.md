@@ -6,4 +6,6 @@
 - DVD Multiplayer Optical Disk.
 - 60gb Seagate SSD (something small to run OS on once I install.)
 # August 2026 Development
-## 7.31
+## 7/31/26
+Tried installing 5.25' to 3.5' ODD/HDD drive bay, did not fit.
+Cleaned behind front panel, was caked in dust. Disgusting.
