@@ -5,8 +5,9 @@ This documentation exists as a continuously updated log of experience learnt thr
 
 Current projects being worked on are:
 - Custom PC/Console Hybrid
-  - Gaming PC running Bazzite.
+  - Gaming PC dual-booting Bazzite and Windows 11.
   - Used to replicate Valve's Steam Machine with stronger hardware.
+  - Windows 11 used for modded games and software exclusive to Windows.
   - Hardware self built and software self maintained.
  
 - ThinkPad Ts140 Server/NAS
