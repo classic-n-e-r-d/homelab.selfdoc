@@ -1,4 +1,6 @@
 # Lenovo Legion 5 Software Log
+## Current Operating System.
+Windows 11
 # August 2026 Development
 ## 7/29/26
 - Installed Windows 11 on 512gb Inland SSD.
