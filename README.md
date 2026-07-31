@@ -4,7 +4,7 @@ Repository to document my experiences while building my homelab and learning oth
 This documentation exists as a continuously updated log of experience learnt throughout my navigation of various operating systems, networking skills, and homelab projects.
 
 Current projects being worked on are:
-- Custom PC/Console Hybrid
+- Custom PC/Console Hybrid (Blackbox)
   - Gaming PC dual-booting Bazzite and Windows 11.
   - Used to replicate Valve's Steam Machine with stronger hardware.
   - Windows 11 used for modded games and software exclusive to Windows.
