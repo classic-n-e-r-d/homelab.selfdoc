@@ -9,9 +9,11 @@
   - Temps increased to average of 55* on CPU and 70* on GPU. (Old temps substantially lower)
   - Ordered beQuiet! 120mm fans to replace the Arctic 140mm fan temps.
 - Installed PCIE to NVME SSD adapter in 1x1 PCIE slot.
+  - Cloned Windows 11 Partitions on Samsung 1TB NVME to SK Hynix 1TB SSD (salvaged from Legion 5) to seperate both Bazzite and Windows 11. (Windows 11 is credited to delete BazziteOS upon Windows updates occasionally.)
+- Plugged in Anker 12in1 USB hub to free up USB ports/Ethernet port. (Allows for PC to become more portable.)
 ## 7/25/26
 - Blackbox starts turning off unexpectedly.
-  - Issue first began after booting into Windows 11 on newly installed PCIE NVME (1tb Sk Hynix from Legion 5 Laptop.)
+  - Issue first began after booting into Windows 11 on newly installed PCIE NVME.
   - Removed external plating of PC case which allowed Blackbox to startup and run more consistently.
   - Kept re-powering PC every time it turned off in order to continue playing Titanfall 2 (lol.)
   - Went from turning off minutes after start up to being able to withstand gaming sessions.
