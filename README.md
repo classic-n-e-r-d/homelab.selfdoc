@@ -8,12 +8,15 @@ Current projects being worked on are:
   - Gaming PC running Bazzite.
   - Used to replicate Valve's Steam Machine with stronger hardware.
   - Hardware self built and software self maintained.
+ 
 - ThinkPad Ts140 Server/NAS
   - Boots TrueNAS.
   - Used as media/gaming server.
+  
 - Lenovo Legion 5
   - Dual-boots both Windows 11 and Fedora Linux.
   - Used to test Linux distributions and run software exclusive to Windows.
+  
 - ThinkPad T470p
   - Boots Arch-Linux.
   - Used to practice Arch-Linux and terminal understanding.
