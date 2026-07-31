@@ -6,3 +6,4 @@
 - DVD Multiplayer Optical Disk.
 - 60gb Seagate SSD (something small to run OS on once I install.)
 # August 2026 Development
+## 7.31
