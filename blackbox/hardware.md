@@ -37,8 +37,11 @@
 -  Ordered replacement micro-ATX MOBO (MSI B550m Mag Mortar Max, refurbished off eBay.)
 ## 8/5/26
 - MSI B550m arrived, installed halfway without realizing it was missing stand offs for m.2 drives.
+  - Also came missing I/O shield and m.2 heatsink.
+  - Also slight dent near I/O, can be removed though.
+  - Trying to buy a one off eBay from someone with a broken B550m, every other listing online takes too long to arrive.
 - Installed all 5 beQuiet! fans and plugged into Arctic fan hub.
 - Installed two more sticks of ram, totalling for 80gb of DDR4 ram. (32x2 and 8x2)
 - Broke CPU cooler pins on Peerless Assassin while managing cables.
   - Ordered replacement AIO cooler (been wanting to try an AIO anyways, need to make more space in case too.)
-- Blackbox down til AIO arrives.
+- Blackbox down til AIO arrives (should be 8/7.)
