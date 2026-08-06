@@ -35,3 +35,9 @@
   - Arctic 5pin fan hub ordered to sync all case fans.
 ## 7/30/26
 -  Ordered replacement micro-ATX MOBO (MSI B550m Mag Mortar Max, refurbished off eBay.)
+## 8/5/26
+- MSI B550m arrived, installed halfway without realizing it was missing stand offs for m.2 drives.
+- Installed all 5 beQuiet! fans and plugged into Arctic fan hub.
+- Broke CPU cooler pins on Peerless Assassin while managing cables.
+  - Ordered replacement AIO cooler (been wanting to try an AIO anyways, need to make more space in case too.)
+- Blackbox down til AIO arrives.
