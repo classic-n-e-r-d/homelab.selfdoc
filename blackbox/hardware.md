@@ -38,6 +38,7 @@
 ## 8/5/26
 - MSI B550m arrived, installed halfway without realizing it was missing stand offs for m.2 drives.
 - Installed all 5 beQuiet! fans and plugged into Arctic fan hub.
+- Installed two more sticks of ram, totalling for 80gb of DDR4 ram. (32x2 and 8x2)
 - Broke CPU cooler pins on Peerless Assassin while managing cables.
   - Ordered replacement AIO cooler (been wanting to try an AIO anyways, need to make more space in case too.)
 - Blackbox down til AIO arrives.
