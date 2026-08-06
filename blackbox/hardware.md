@@ -45,3 +45,8 @@
 - Broke CPU cooler pins on Peerless Assassin while managing cables.
   - Ordered replacement AIO cooler (been wanting to try an AIO anyways, need to make more space in case too.)
 - Blackbox down til AIO arrives (should be 8/7.)
+## 8/6/26
+- Organized some cables to prep for AIO install later this week.
+  - Going to adjust some more but it looks way better already.
+- Uninstalled top case fans since AIO will be put there, will install two of case fans user@fedora:~$ ^[[200~sudo dnf install steam~
+on bottom.
