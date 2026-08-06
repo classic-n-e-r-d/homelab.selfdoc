@@ -15,9 +15,9 @@ Current projects being worked on are:
   - Used as media/gaming server.
   
 - Lenovo Legion 5
-  - Dual-boots both Windows 11 and Fedora Linux.
-  - Used to test Linux distributions and run software exclusive to Windows.
+  - Dual-boots both Fedora 44 w/ Cinnamon and Windows 11.
+  - Personal use laptop.
   
 - ThinkPad T470p
-  - Boots Arch-Linux.
-  - Used to practice Arch-Linux and terminal understanding.
+  - Boots CachyOS w/ Hyprland.
+  - Used to practice terminal understanding and Linux ricing.
