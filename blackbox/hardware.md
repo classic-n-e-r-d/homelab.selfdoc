@@ -50,3 +50,9 @@
   - Going to adjust some more but it looks way better already.
 - Uninstalled top case fans since AIO will be put there, will install two of case fans user@fedora:~$ ^[[200~sudo dnf install steam~
 on bottom.
+## 8/7/26
+- Did major cable re-management, case has a lot more room inside with less cables everywhere.
+- Re-installed case fans (2) along bottom.
+- Installed 8TB Seagate Barracuda HDD on bottom of case.
+- Installed both NVME SSD using new stand offs and screws onto new mobo.
+- Should be up and running tomorrow after AIO is installed.
