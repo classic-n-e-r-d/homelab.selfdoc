@@ -17,3 +17,9 @@ Windows 11
 - Used Fedora Media Writer to format new Fedora 44 ISO onto spare flash.
 - Successfully installed Fedora 44 w/ Cinnamon onto Lenovo Legion 5.
 - Tomorrow will use the other half of NVME drive to install Windows 11.
+## 8/6/26
+- Installed fresh copy of Windows 11 on second half of NVME.
+  - Performed basic bloatware cleanup using Chris Titus Winutil, disables telemetry and Microsoft bloatware/AI.
+- Customized Fedora terminal by installing Ghostty, Spaceship, and FastFetch.
+## 8/7/26
+- Properly configured Nvidia drivers on Fedora which soft-restarts from occuring whenever display changes were made to external monitor.
